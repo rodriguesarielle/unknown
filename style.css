@@ -1,7 +1,7 @@
 principal{
     background-color:navy;
 }
-#imagem{
+.imagem{
     width: 50px;
     border: solid 3px grey;
 }
