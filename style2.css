@@ -7,3 +7,12 @@
     color: azure;
     font-weight: 400;
 }
+.principal{
+    background-color: aqua;
+    border: 10px;
+    border-color: black;
+    border-style: dashed;
+    margin: 10px;
+    color: azure;
+    font-weight: 400;
+}
