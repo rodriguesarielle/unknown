@@ -1,4 +1,9 @@
-principal{
+#link{
+    font-size: 20px;
+    color:color(from color srgb r g b);
+    text-decoration: none;
+}
+.principal{
     background-color:rgb(0, 0, 138);
     color: black;
 }
